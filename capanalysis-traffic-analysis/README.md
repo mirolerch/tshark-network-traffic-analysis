@@ -16,8 +16,11 @@ Traffic analysis using CapAnalysis.
 - Traffic mainly destined to: USA
 
 ## Analysis
+### 1 - Overview
 ![Overview](overview.png)
+### 2 - Flow
 ![Flow](flow.png)
+### 3 - IP Analysis
 ![IP](ip.png)
 
 ## Lessons Learned
