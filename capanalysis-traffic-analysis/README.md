@@ -15,6 +15,11 @@ Traffic analysis using CapAnalysis.
 - Highest traffic IP: 192.168.0.136 (25.4%)
 - Traffic mainly destined to: USA
 
+## Analysis
+![Overview](overview.png)
+![Protocols](protocols.png)
+![Traffic](traffic.png)
+
 ## Lessons Learned
 - Traffic analysis reveals protocols and behavior
 - Even without payload, patterns are visible
