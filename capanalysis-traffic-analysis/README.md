@@ -17,7 +17,8 @@ Traffic analysis using CapAnalysis.
 
 ## Analysis
 ![Overview](overview.png)
-
+![Flow](flow.png)
+![IP](ip.png)
 
 ## Lessons Learned
 - Traffic analysis reveals protocols and behavior
