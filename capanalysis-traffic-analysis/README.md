@@ -10,7 +10,10 @@ Traffic analysis using CapAnalysis.
 - QUIC was the dominant protocol 
 - TOR traffic detected 
 - BitTorrent and Dropbox activity observed 
-- Amazon traffic identified 
+- Amazon traffic identified
+- Total traffic volume: 77.5 MB
+- Highest traffic IP: 192.168.0.136 (25.4%)
+- Traffic mainly destined to: USA
 
 ## Lessons Learned
 - Traffic analysis reveals protocols and behavior
